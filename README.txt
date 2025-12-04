@@ -1,6 +1,5 @@
-================================================================================
+
 README: CONFIGURATION & SETUP
-================================================================================
 
 Before running the script, you must update the file paths to match your computer's 
 directory structure. Open the Python file and look for the configuration variables 
